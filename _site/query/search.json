@@ -1,0 +1,32 @@
+[
+    {
+    "title"    : "Projects"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/tabs/projects.html"
+    ,"date"     : "Jul 14, 2022"
+    ,"content"  : "main header Projects info My projects are here: text_color white img :projects-heading.jpg back_color lightblue"
+  },{
+    "title"    : "Links"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/tabs/links.html"
+    ,"date"     : "Jul 14, 2022"
+    ,"content"  : "main header Links info Important/Interesting links category title Web Development (Example) type id_webdev color #F4A273 list type id_webdev title W3Schools url https://www.w3schools.com/ info W3Schools offers free online tutorials references and exercises in all the major languages of the web. Covering popular subjects like HTML CSS JavaScript Python SQL Java and many more."
+  },{
+    "title"    : "Home"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/"
+    ,"date"     : "Jul 14, 2022"
+    ,"content"  : "(blank)."
+  },{
+    "title"    : "About"
+    ,"category" : ""
+    ,"tags"     : ""
+    ,"url"      : "/tabs/about.html"
+    ,"date"     : "Jul 14, 2022"
+    ,"content"  : "Your info here:3"
+  }
+  ]
+
